@@ -187,10 +187,11 @@ Coleção de scripts SQL de modelagem de banco de dados para diferentes cenário
 ## `▍` REDES SOCIAIS
 
 <div align="center">
-
 <a href="https://www.linkedin.com/in/larissa-t-araujo/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
-</a>
+  <img
+    src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0D1117?style=for-the-badge&amp;logo=linkedin-white&amp;logoColor=00D9FF"
+    alt="LinkedIn"
+  />
 <a href="mailto:larissatamiresar@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=9D4EDD" />
 </a>
